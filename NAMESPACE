@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "win.graph")
+importFrom("graphics", "plot")
+importFrom("stats", "dnorm", "pchisq", "pnorm", "qnorm", "var")
